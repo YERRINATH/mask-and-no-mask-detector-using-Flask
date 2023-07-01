@@ -1,0 +1,3 @@
+download dataset from kaggle of mask and no mask pics.
+create dataset folder available to access to the remaining py files.
+in this folder create with_mask and without_mask folders to keep keep dataset pic of masked images and no mask images. 
